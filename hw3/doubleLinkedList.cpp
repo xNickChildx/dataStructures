@@ -1,16 +1,4 @@
-/*Design and Implement a single linked list with the following operations, lectures
-single linked list 01 and 02 have example code/pseudocode for each operation.
-a
--
-C
-reate "n" nodes 
-b
--
-D
-elete from the middle
-c
--
-Insert in the middle
+/*doubly linked list with main function for adding to begining and deleting from end
 */
 #include <iostream>
 typedef struct doubleLinkedList{
